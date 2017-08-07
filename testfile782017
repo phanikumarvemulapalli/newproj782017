@@ -1,0 +1,4 @@
+public class Test1{
+
+Public int Id1 {get;set;}
+}
